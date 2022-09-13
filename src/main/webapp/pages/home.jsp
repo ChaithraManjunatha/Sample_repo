@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>Hello Chandra, welcome to Spring BOOT web app</h2>
+<h2>Hello Chaithra, welcome to Spring BOOT web app</h2>
 <!-- <h4>itemID ${itemID}</h4>  -->
 <h4>Item Object details ${itemObj}</h4>
 <br/>
